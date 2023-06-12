@@ -13,7 +13,7 @@ Masterplanners are hired to design spaces that respond to new trends and technol
 Having worked on large scale urban and industrial development masterplanning projects in more than twenty countries, many in the developing world, I have been frequently asked by clients to speculate on emerging issues, trends and innovations. As we move into a new normal in the post-COVID world, I wish to share my thoughts and insights on things that masterplanners will have to assimilate and respond to into their future designs.
 
 
-## Sustainable Development Goals
+### Sustainable Development Goals
 
 The world faces a major challenge in global warming. Average global temperature rise since the 1800s is on course to peak at 2.6°C around 2050, taking into account current government pledges, according to the Climate Action Tracker organization. Scientists believe that a rise of 2°C will cause many irreversible and catastrophic changes to life on earth, including plant and animal extinction, rising sea levels from melting ice caps and increase in epidemics. 
 
@@ -23,7 +23,7 @@ About 9% of the world live in extreme poverty, according to the World Bank. Esca
 
 Over the years, the United Nations have refined goals and targets to end poverty and protect the earth from irreversible climate change impacts, culminating in a set of 17 Sustainable Development Goals currently adopted among member countries. To achieve these goals, governments and businesses must invest in health, education, agriculture, and infrastructure; take actions to achieve food security, provide clean water and sanitation facilities, protect against flooding and typhoons, create employment, ensure affordable housing, reduce waste and promote recycling, switch to clean energy and so on. 
 
-## Infrastructure For The Developing World
+### Infrastructure For The Developing World
 
 The developing world needs the financing provided by global institutions for many basic infrastructure projects; and the support of businesses and consumers in the advanced economies to buy goods and services produced in the developing world; stimulating economic growth, which will then enable those infrastructure loans to be repaid.</p>
 
@@ -36,20 +36,20 @@ In the more developed world, ‘green’ infrastructure such as urban parks and 
 
 The political environments in countries such as China and Singapore empower governments to acquire private land and resettle population to create green infrastructure corridors.  In many other developing cities, government-led resettling of residents is often politically difficult.  Traditional ‘grey’ infrastructure that can be overlaid onto existing landuse arrangements, and enhanced with some technological adaptation, are often the more feasible solution.  For instance, to lay sewers across crowded informal settlements, Indian engineers have developed innovative methods for non-disruptive tunneling under narrow crooked roadways.   In Medellín, Colombian planners created public outdoor escalators as mobility infrastructure for connecting the poorest informal settlements perched on valley slopes to the city center on the valley floor.
 
-## Throwaway Consumption
+### Throwaway Consumption
 
 Many things are thrown away regularly in the modern economy, including packaging and cheap consumer goods.  There is, however, a growing pushback around the world for a more sustainable lifestyle based on the mantra of reuse, recycle, reduce, repurpose, repair, rent, resale and sharing. 
 In the last decade, the fast fashion industry has grown exponentially with consumers in the advanced countries continuously buying trendy, relatively low cost, mass-produced clothing.  Some out-of-fashion clothes are donated and end up being sold cheaply as second-hand clothing in the developing world.  Nonetheless, the volume of discarded clothing continues to climb at alarming rates across the world.  
 Reduced buying by consumers will shrink the fast fashion industry and lower the carbon footprint of textile production, which is currently at about the same level as the automotive industry, according to the Ellen MacArthur Foundation.  It is conceivable that if new sustainable consumption trends take hold, repair and rental services will become more prominent in future urban retail spaces.
 On the flip side, the readymade garment industry has powered the rapidly growing Bangladesh economy and contributes about 80% of exports.  Four million workers, 85% of which are illiterate women, are employed.  The COVID pandemic has been devastating for these workers and the economy as factories close due to supply chain disruptions.   Developing countries that are benefitting from low-cost production of consumer goods for advanced countries will be impacted when throwaway consumption is reduced.
 
-## ESG Investing
+### ESG Investing
 
 Financial returns are no longer the sole focus of business.  More multinational corporations and financing entities are now committed to ESG (Environment, Social and Corporate Governance) investments.   Corporations that do not provide sufficient ESG disclosure will increasingly face greater regulatory, investor and consumer scrutiny.  
 Industrial park developers targeting ESG conscious manufacturers will have to provide sustainably developed spaces and green facilities such as wastewater treatment and recycling plants, waste heat and waste material exchange etc., at competitive costs.  Commercial property developers are responding to the strongly growing demand for green buildings with innovative net-zero developments.  In these developments, renewable energy generation (through solar panels, wind turbines etc., and sometimes on-site), coupled with battery power storage, can meet the total demands of carefully designed highly-energy-efficient buildings.  
 Large scale urban, industrial and tourism developments that impact local communities, especially if resettlement is involved, needs to take into account community concerns and ensure fair compensation.   Increasingly, investors are unwilling to participate in tourism projects or locate in industrial parks where existing communities have been displaced, with lingering resentment against perceived unfair compensation. 
 
-## Landuse Transformations
+### Landuse Transformations
 
 Office workers in most of the world have been working from home for over a year.  By now, employers and employees both speculate that hybrid work arrangements – such as 50% work from home, 50% office hot-desking – will become permanent fixtures.  Continuous refinement of hybrid work arrangements will enable business and government to better respond to the next pandemic.  There are also benefits in normal times: businesses can reduce real estate costs and many workers can save time lost on long commutes. 
 
