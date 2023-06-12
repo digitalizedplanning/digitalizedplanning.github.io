@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Thinking Ahead Part 2"
-subtitle: "Economic and Industrial Transformations | Energy Transition | Mass Timeber"
+subtitle: "Transformations"
 date: 2021-06-07 23:45:13 -0400
-background: '/img/posts/04.jpg'
+background: '/img/posts/davaoschool.jpg'
 ---
 
-## Economic and Industrial Transformations
 The COVID pandemic has hit developing countries harder.  Government financial aid and fast vaccination rollout will enable richer countries to bounce back quickly.  In the developing world, government support and vaccination rollout are lacking behind.  Intermittent lockdowns have been devastating for many workers in the large informal sector in developing countries (such as hawkers, construction workers, domestic helpers).  As the economy shrank, debt repayments for infrastructure loans must be renegotiated, and many previously planned infrastructure projects, expenditures and loans will have to be postponed.  The near term outlook is not encouraging.  Tourism, an important source of revenues and employment in the developing world, is expected to recover only gradually in the years ahead.
 
 Lean global supply chains have been enabled by highly sophisticated supply chain software and logistics cost reduction through increased shipping and transportation efficiencies.  Components are manufactured across many countries to take advantage of labor cost savings and tax incentives.  The assembled products are then shipped to major consumer markets in the advanced economies.  Product and component stocking and warehousing space throughout the global supply chain have been minimized.

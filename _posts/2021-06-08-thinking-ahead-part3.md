@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Thinking Ahead Part 3"
-subtitle: "Electric and Autonomous Vehicles | Smart Cities | 15-Minute City | New Way of Masterplanning"
+subtitle: "New Way of Masterplanning"
 date: 2021-06-08 23:45:13 -0400
-background: '/img/posts/04.jpg'
+background: '/img/posts/gettymuseum.jpg'
 ---
 
 ## Electric and Autonomous Vehicles
