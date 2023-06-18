@@ -6,33 +6,41 @@ date: 2021-06-06 10:45:13 -0400
 background: '/img/posts/prospectpark.jpg'
 ---
 
- Sustainability, widening rich-poor gaps, work-from-home transformations, autonomous vehicles, energy transition, industrial automation, smart cities – these emerging and continuously evolving issues, trends and technologies are firmly in the radar of municipal leaders, real estate developers and investors. These items are well covered by the media, academia, and strategic consulting firms – each analyzing, predicting, or advising from its own vantage point.
+ 
+An emerging world with groundbreaking artificial intelligence, digital technology, renewable energy and autonomous vehicles reshaping the global economy and urban life; colliding with more frequent weather related disasters, loss of biodiversity and increasing social inequalities. 
 
-Masterplanners are hired to design spaces that respond to new trends and technologies. They need to stay updated, think deeply, but also intuitively, on how all these emerging trends and technologies will work out in our intricately interlinked urban and economic spaces. At the end of the day, municipal leaders and real estate developers, already well-advised by their bureaucracies and strategic consultants, will want to work closely with masterplanners to help design the development plans that will advance their political or business visions of better urban spaces tomorrow.
+This rapidly evolving landscape is a pulsating reality that municipal leaders, real estate developers, and investors eagerly explore. Media outlets, academia, and strategic consulting firms dissect these topics, each offering their unique perspective.
 
-Having worked on large scale urban and industrial development masterplanning projects in more than twenty countries, many in the developing world, I have been frequently asked by clients to speculate on emerging issues, trends and innovations. As we move into a new normal in the post-COVID world, I wish to share my thoughts and insights on things that masterplanners will have to assimilate and respond to into their future designs.
+Masterplanners play a crucial role in designing the urban and industrial spaces of tomorrow. They need to stay updated, think deeply, and tap into their intuition to envision how these emerging forces will shape our intricate urban and economic environments. Municipal leaders and real estate developers, already armed with advice from their bureaucracies and strategic consultants, recognize the value of collaborating closely with masterplanners to craft development plans that align with their political or business visions for creating better urban spaces tomorrow.
+
+Drawing on my extensive experience working on large-scale urban and industrial development and masterplanning projects across more than twenty countries, including many in the developing world, I have frequently been asked by clients to speculate on emerging issues, trends, and innovations. As we transition into a new normal in the post-COVID era, I am excited to share my thoughts and insights on the factors that masterplanners must assimilate and respond to in their future designs.
 
 
 ### Sustainable Development Goals
 
-The world faces a major challenge in global warming. Average global temperature rise since the 1800s is on course to peak at 2.6°C around 2050, taking into account current government pledges, according to the Climate Action Tracker organization. Scientists believe that a rise of 2°C will cause many irreversible and catastrophic changes to life on earth, including plant and animal extinction, rising sea levels from melting ice caps and increase in epidemics. 
+The world faces an immense challenge in coming together to tackle global warming. Average global temperature rise since the 1800s is on course to peak at 2.6°C around 2050, taking into account current government pledges, according to the Climate Action Tracker organization. Scientists warn that a rise of 2°C will cause many irreversible and catastrophic changes to life on earth, including plant and animal extinction, rising sea levels from melting ice caps and increase in epidemics. 
 
-About 9% of the world live in extreme poverty, according to the World Bank. Escalating climate change with more severe droughts, typhoons and altered marine food ecosystems, will impact more poor people in the developing world.
+Astonishingly, about 9% of the world still live in extreme poverty, according to the World Bank. Escalating climate change with more severe droughts, typhoons and altered marine food ecosystems, will impact more poor people in the developing world.
 
-<blockquote class="blockquote"> The world faces a major challenge in global warming </blockquote>
+---
 
-Over the years, the United Nations have refined goals and targets to end poverty and protect the earth from irreversible climate change impacts, culminating in a set of 17 Sustainable Development Goals currently adopted among member countries. To achieve these goals, governments and businesses must invest in health, education, agriculture, and infrastructure; take actions to achieve food security, provide clean water and sanitation facilities, protect against flooding and typhoons, create employment, ensure affordable housing, reduce waste and promote recycling, switch to clean energy and so on. 
+>The most vulnerable among us will bear the brunt of climate change impacts
+
+---
+
+Over the years, the United Nations have refined goals and targets to end poverty and protect the earth from irreversible climate change impacts, culminating in a set of 17 Sustainable Development Goals currently adopted among member countries. To achieve these goals, governments and businesses must invest in health, education, agriculture, and infrastructure; take actions to achieve food security, provide clean water and sanitation facilities, protect against flooding and typhoons, create employment, ensure affordable housing, reduce waste and promote recycling, and switch to clean energy. 
 
 ### Infrastructure For The Developing World
 
-The developing world needs the financing provided by global institutions for many basic infrastructure projects; and the support of businesses and consumers in the advanced economies to buy goods and services produced in the developing world; stimulating economic growth, which will then enable those infrastructure loans to be repaid.</p>
+The developing world needs the financing provided by global institutions for many basic infrastructure projects; and the support of businesses and consumers in the advanced economies to buy goods and services produced in the developing world; stimulating economic growth, which will then enable those infrastructure loans to be repaid.
 
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<img src="/img/posts/sgtampines.jpg" alt="sgtampines" width="100%">
+<span class="caption text-muted"> Flood alleviation canal in Singapore</span>
+
 
 Water supply, wastewater collection and treatment, flood alleviation, port upgrading, economic zone development, and so on – these are critical projects that need to be carefully and creatively masterplanned in many overcrowded developing world cities with chaotic landuse arrangements and weak urban planning systems.
 
-In the more developed world, ‘green’ infrastructure such as urban parks and the rewilding of obsolete industrial land to act as flood retention areas or natural wastewater treatment facilities, are gaining popularity. In Singapore, stormwater runoff in the urban area is harvested for industrial as well as domestic consumption, made possible by sophisticated collection and filtering infrastructure and a well-run development planning and control system. 
+In the more developed world, ‘green’ infrastructure such as urban parks and the rewilding of obsolete industrial land to act as flood retention areas or natural wastewater treatment facilities, are gaining popularity. In Singapore, stormwater runoff in the urban area is harvested for industrial as well as domestic consumption, made possible by a sophisticated collection and filtering infrastructure and a well-run development planning and control system. 
 
 The political environments in countries such as China and Singapore empower governments to acquire private land and resettle population to create green infrastructure corridors.  In many other developing cities, government-led resettling of residents is often politically difficult.  Traditional ‘grey’ infrastructure that can be overlaid onto existing landuse arrangements, and enhanced with some technological adaptation, are often the more feasible solution.  For instance, to lay sewers across crowded informal settlements, Indian engineers have developed innovative methods for non-disruptive tunneling under narrow crooked roadways.   In Medellín, Colombian planners created public outdoor escalators as mobility infrastructure for connecting the poorest informal settlements perched on valley slopes to the city center on the valley floor.
 
