@@ -9,11 +9,14 @@ background: '/img/posts/prospectpark.jpg'
  
 An emerging world with groundbreaking artificial intelligence, digital technology, renewable energy and autonomous vehicles reshaping the global economy and urban life; colliding with more frequent weather related disasters, loss of biodiversity and increasing social inequalities. 
 
-This rapidly evolving landscape is a pulsating reality that municipal leaders, real estate developers, and investors eagerly explore. Media outlets, academia, and strategic consulting firms dissect these topics, each offering their unique perspective.
+This rapidly evolving landscape is a pulsating reality that global and municipal leaders, real estate developers, and investors eagerly explore. Media outlets, academia, and strategic consulting firms dissect these topics, each offering their unique perspective.
 
 Masterplanners play a crucial role in designing the urban and industrial spaces of tomorrow. They need to stay updated, think deeply, and tap into their intuition to envision how these emerging forces will shape our intricate urban and economic environments. Municipal leaders and real estate developers, already armed with advice from their bureaucracies and strategic consultants, recognize the value of collaborating closely with masterplanners to craft development plans that align with their political or business visions for creating better urban spaces tomorrow.
 
 Drawing on my extensive experience working on large-scale urban and industrial development and masterplanning projects across more than twenty countries, including many in the developing world, I have frequently been asked by clients to speculate on emerging issues, trends, and innovations. As we transition into a new normal in the post-COVID era, I am excited to share my thoughts and insights on the factors that masterplanners must assimilate and respond to in their future designs.
+
+
+### TO UPDATE AND REWRITE FROM HERE ONWARDS...
 
 
 ### Sustainable Development Goals

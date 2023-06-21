@@ -6,6 +6,8 @@ date: 2021-06-08 23:45:13 -0400
 background: '/img/posts/gettymuseum.jpg'
 ---
 
+### TO UPDATE AND REWRITE FROM HERE ONWARDS...
+
 ## Electric and Autonomous Vehicles
 
 The production cost of electric cars is expected to fall below the production cost of gasoline cars in this decade.  In a future where electricity is generated predominantly by renewables, electric vehicles will help remove most of the 11% of global greenhouse emission from fossil fuels burned in combustion engine passenger vehicles (estimates from ourworldindata.org).   
