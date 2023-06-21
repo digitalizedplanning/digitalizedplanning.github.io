@@ -31,7 +31,7 @@ Astonishingly, about 9% of the world still live in extreme poverty, according to
 
 ---
 
-Over the years, the United Nations have refined goals and targets to end poverty and protect the earth from irreversible climate change impacts, culminating in a set of 17 Sustainable Development Goals currently adopted among member countries. To achieve these goals, governments and businesses must invest in health, education, agriculture, and infrastructure; take actions to achieve food security, provide clean water and sanitation facilities, protect against flooding and typhoons, create employment, ensure affordable housing, reduce waste and promote recycling, and switch to clean energy. 
+Over the years, the United Nations have refined goals and targets to end poverty and to protect the earth from irreversible climate change impacts, culminating in a set of 17 Sustainable Development Goals currently adopted among member countries. To achieve these goals, governments and businesses must invest in health, education, agriculture, and infrastructure; take actions to achieve food security, provide clean water and sanitation facilities, protect against flooding and typhoons, create employment, ensure affordable housing, reduce waste and promote recycling, and switch to clean energy. 
 
 ### Infrastructure For The Developing World
 
